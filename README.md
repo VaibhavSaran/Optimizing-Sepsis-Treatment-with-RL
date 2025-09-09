@@ -1,4 +1,4 @@
-# Health-Care-in-RL-Final-Project-CSE-546
+# Optimizing-Sepsis-Treatment-with-RL
 
 ## Team
 1. Vaibhav Saran
